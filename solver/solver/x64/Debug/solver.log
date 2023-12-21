@@ -1,0 +1,62 @@
+﻿  solver.cpp
+E:\tasks\solver\solver\valueOrganizer.h(28,38): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.h(28,56): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.h(29,37): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.h(29,55): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.h(30,38): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.h(30,56): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.h(31,35): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.h(31,53): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.h(32,36): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.h(32,54): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.h(33,37): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.h(33,55): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.h(34,34): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.h(34,52): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.h(35,33): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.h(35,51): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.h(36,35): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.h(36,53): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+  valueOrganizer.cpp
+E:\tasks\solver\solver\valueOrganizer.h(28,38): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.h(28,56): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.h(29,37): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.h(29,55): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.h(30,38): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.h(30,56): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.h(31,35): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.h(31,53): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.h(32,36): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.h(32,54): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.h(33,37): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.h(33,55): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.h(34,34): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.h(34,52): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.h(35,33): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.h(35,51): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.h(36,35): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.h(36,53): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.cpp(48,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\tasks\solver\solver\valueOrganizer.cpp(51,17): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\tasks\solver\solver\valueOrganizer.cpp(52,17): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\tasks\solver\solver\valueOrganizer.cpp(59,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\tasks\solver\solver\valueOrganizer.cpp(90,52): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.cpp(91,52): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.cpp(100,51): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.cpp(101,51): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.cpp(118,52): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.cpp(119,52): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.cpp(136,49): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.cpp(137,49): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.cpp(150,50): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.cpp(151,50): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.cpp(160,51): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.cpp(161,51): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.cpp(182,48): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.cpp(183,48): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.cpp(206,47): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.cpp(207,47): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.cpp(227,49): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\tasks\solver\solver\valueOrganizer.cpp(228,49): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+  Создание кода...
+  solver.vcxproj -> E:\tasks\solver\x64\Debug\solver.exe

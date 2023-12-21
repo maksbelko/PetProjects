@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\38095\source\repos\DogNCat\DogNCat\main.cpp(33,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\38095\source\repos\DogNCat\DogNCat\main.cpp(249,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\38095\source\repos\DogNCat\DogNCat\main.cpp(250,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  DogNCat.vcxproj -> C:\Users\38095\source\repos\DogNCat\Debug\DogNCat.exe
